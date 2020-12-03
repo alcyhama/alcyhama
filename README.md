@@ -9,21 +9,12 @@ I am a Telecommunications Technician and Ethical Hacking who is exploring the De
  🔭 I’m planning for a Project **Vision: Global Health Network System**.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-CEH-blue"> Ethical Hacking
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
+  
  💬 Ask me about Telecommunications Technician, Ethical Hacking , and any Tech-related stuff.
-
 
 ![Profile views](https://gpvc.arturio.dev/alcyhama)  <img src="https://img.shields.io/github/followers/alcyhama?label=Follow" style=" float:left, margin-right:10px" />
 
-
 ---
-
 
 ### Tech & Tools Preference
 
