@@ -1,7 +1,7 @@
 ### Hi I'm Alberto  👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/75329678/101069491-5f988980-359a-11eb-915f-facca923656b.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://user-images.githubusercontent.com/75329678/101069491-5f988980-359a-11eb-915f-facca923656b.png" width="75%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
