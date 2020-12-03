@@ -6,7 +6,7 @@
 
 I am a Telecommunications Technician and Ethical Hacking technician who is exploring the Defenses and Vulnerabilities of CPDs, while making it easier for the World to Experience the user with my Design Thinking Skills and Machine Learning Enthusiast about ML. :wink:
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **Vision: Global Health Network System**.
  
  🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
  
