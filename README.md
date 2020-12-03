@@ -46,7 +46,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [alycyhama](https://github.com/alcyhama)
+:star: From [alcyhama](https://github.com/alcyhama)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
