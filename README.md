@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/75329678/101069491-5f988980-359a-11eb-915f-facca923656b.png" width="75%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Telecommunications Technician and Ethical Hacking technician who is exploring the Defenses and Vulnerabilities of CPDs, while making it easier for the World to Experience the user with my Design Thinking Skills and Machine Learning Enthusiast about ML. :wink:
+I am a Telecommunications Technician and Ethical Hacking who is exploring the Defenses and Vulnerabilities of CPDs, while making it easier for the World to Experience the user with my Design Thinking Skills and Machine Learning Enthusiast about ML. :wink:
  
  🔭 I’m planning for a Project **Vision: Global Health Network System**.
  
