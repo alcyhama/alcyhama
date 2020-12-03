@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75329678/101092333-cbd6b580-35b9-11eb-9882-04db47b518e4.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-<p align="center"> ### Hi I'm Alberto  👋👨‍💻<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
+<p align="center"> ### Hi I'm Alberto <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 I am a Telecommunications Technician and Ethical Hacking who is exploring the Defenses and Vulnerabilities of CPDs, while making it easier for the World to Experience the user with my Design Thinking Skills and Machine Learning Enthusiast about ML. :wink:
  
