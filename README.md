@@ -68,7 +68,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/albertogarciacabanas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/albertogarciacabanas/" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <a href="https://twitter.com/alcyhama" target="blank"><img src="https://img.shields.io/twitter/follow/alcyhama?logo=twitter&style=for-the-badge" alt="alcyhama" /></a> </p>
+
 
 <h3 align="center">A passionate Telecommunications Technician from Spain</h3>
 
