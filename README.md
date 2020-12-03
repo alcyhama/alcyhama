@@ -49,6 +49,12 @@ I am a Telecommunications Technician and Ethical Hacking who is exploring the De
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=alcyhama&show_icons=true&hide_border=true)
 
+<h3 align="center">A passionate Telecommunications Technician from Spain</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alcyhama&label=Profile%20views&color=0e75b6&style=flat" alt="alcyhama" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcyhama" alt="alcyhama" /></a> </p>
+
 Check for a detailed stats here :point_right: [Sourcerer](https://github.com/alcyhama)
 
 ---
@@ -67,15 +73,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 <a href="https://twitter.com/alcyhama" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alcyhama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/albertogarciacabanas/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/albertogarciacabanas/" height="30" width="40" /></a>
 </p>
-
-
-
-<h3 align="center">A passionate Telecommunications Technician from Spain</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alcyhama&label=Profile%20views&color=0e75b6&style=flat" alt="alcyhama" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alcyhama" alt="alcyhama" /></a> </p>
-
-
-
 
