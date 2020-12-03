@@ -8,7 +8,7 @@ I am a Telecommunications Technician and Ethical Hacking technician who is explo
  
  🔭 I’m planning for a Project **Vision: Global Health Network System**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Ethical Hacking
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
  
@@ -31,12 +31,17 @@ I am a Telecommunications Technician and Ethical Hacking technician who is explo
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-JIRA-informational?style=flat&logo=jira&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Network-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=2bbc8a)
+
 
 
 ### Other Languages I know
@@ -77,4 +82,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
