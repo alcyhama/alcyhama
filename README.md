@@ -1,4 +1,4 @@
-<p align="center"> ### Hi I'm Alberto  👋👨‍💻 </p> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<p align="center"> ### Hi I'm Alberto  👋👨‍💻<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/75329678/101069491-5f988980-359a-11eb-915f-facca923656b.png" width="75%" title="Intro Card" alt="Intro Card">
